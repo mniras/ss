@@ -1,0 +1,40 @@
+{
+    "name": "واتقو الله لعلكم ترحمون",
+    "description": "User bot for telegram !",
+    "stack": "container",
+    "logo" : "https://telegra.ph/file/3f8fdce85ac4f1d304e4a.jpg",
+    "repository": "https://github.com/bhthh/ah",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "website": "https://github.com/bhthh/ah",
+    "env": {
+        "APP_ID": {
+            "description": "ايبي ايدي",
+            "value": "21079026",
+            "required": true
+        },
+        "APP_HASH": {
+            "description": "هاش",
+            "value": "28f737f60bf9754c53b8c776a33a94d2",
+            "required": true
+        },
+        "TERMUX": {
+            "description": "كود تيرمكس",
+            "value": "",
+            "required": true
+        },
+        "TOKEN": {
+            "description": "توكن",
+            "value": "6051056921:AAFrnzf8e5pEZ2Dgav8Q6MDE3itFJqql9bw",
+            "required": true
+        },
+        "BOT_USERNAME": {
+            "description": "يوزر البوت",
+            "value": "dmdmdmdbot",
+            "required": true
+        }
+    }
+}
